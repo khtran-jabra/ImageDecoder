@@ -1,4 +1,4 @@
-package com.GraphicsImageDecoderTest.myapplication;
+package com.GraphicsImageDecoderTest.DecoderTest;
 
 import android.content.Context;
 

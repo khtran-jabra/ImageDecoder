@@ -8,7 +8,7 @@
     android:background="#EFA1A1"
     android:orientation="vertical"
     android:padding="16dp"
-    tools:context="com.GraphicsImageDecoderTest.myapplication.graphicsImageDecoder">
+    tools:context="com.GraphicsImageDecoderTest.DecoderTest.graphicsImageDecoder">
 
     <!-- Layout to display buttons
         for encoding and decoding-->
